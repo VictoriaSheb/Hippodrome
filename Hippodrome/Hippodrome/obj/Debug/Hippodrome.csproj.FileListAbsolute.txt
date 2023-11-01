@@ -1,0 +1,17 @@
+C:\Users\Виктория\source\repos\Hippodrome\Hippodrome\bin\Debug\Hippodrome.exe.config
+C:\Users\Виктория\source\repos\Hippodrome\Hippodrome\bin\Debug\Hippodrome.exe
+C:\Users\Виктория\source\repos\Hippodrome\Hippodrome\bin\Debug\Hippodrome.pdb
+C:\Users\Виктория\source\repos\Hippodrome\Hippodrome\obj\Debug\Hippodrome.csprojAssemblyReference.cache
+C:\Users\Виктория\source\repos\Hippodrome\Hippodrome\obj\Debug\Hippodrome.Properties.Resources.resources
+C:\Users\Виктория\source\repos\Hippodrome\Hippodrome\obj\Debug\Hippodrome.csproj.GenerateResource.cache
+C:\Users\Виктория\source\repos\Hippodrome\Hippodrome\obj\Debug\Hippodrome.csproj.CoreCompileInputs.cache
+C:\Users\Виктория\source\repos\Hippodrome\Hippodrome\obj\Debug\Hippodrome.exe
+C:\Users\Виктория\source\repos\Hippodrome\Hippodrome\obj\Debug\Hippodrome.pdb
+C:\Users\Виктория\source\repos\Hippodrome\Hippodrome\obj\Debug\Hippodrome.FormIn.resources
+C:\Users\Виктория\source\repos\Hippodrome\Hippodrome\obj\Debug\Hippodrome.MainForm.resources
+C:\Users\Виктория\source\repos\Hippodrome\Hippodrome\obj\Debug\Hippodrome.FormHorse.resources
+C:\Users\Виктория\source\repos\Hippodrome\Hippodrome\obj\Debug\Hippodrome.FormMainClient.resources
+C:\Users\Виктория\source\repos\Hippodrome\Hippodrome\obj\Debug\Hippodrome.FormRacing.resources
+C:\Users\Виктория\source\repos\Hippodrome\Hippodrome\obj\Debug\Hippodrome.FormRate.resources
+C:\Users\Виктория\source\repos\Hippodrome\Hippodrome\obj\Debug\Hippodrome.FormOperations.resources
+C:\Users\Виктория\source\repos\Hippodrome\Hippodrome\obj\Debug\Hippodrome.FormClientIns.resources
